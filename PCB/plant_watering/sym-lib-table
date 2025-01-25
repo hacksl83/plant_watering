@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name nokia_5110-3310_lcd)(type Legacy)(uri C:/Repo/plant_watering/PCB/library/nokia_5110-3310_lcd.lib)(options "")(descr ""))
+)

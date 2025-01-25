@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LCD5110
+D 84x48 LCD display
+$ENDCMP
+#
+$CMP XC9258B33C
+D 1A synchronous Step-Down DC/DC converter
+K DCDC, 3.3Vout
+F https://www.mouser.at/datasheet/2/760/XC9257~58-846729.pdf
+$ENDCMP
+#
+#End Doc Library
